@@ -1,0 +1,21 @@
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\bin\Debug\Calulette.exe.config
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\bin\Debug\Calulette.exe
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\bin\Debug\Calulette.pdb
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\TP C SHARP.csprojResolveAssemblyReference.cache
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.Cotation.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.Form1.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.Properties.Resources.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\TP C SHARP.csproj.GenerateResource.Cache
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.exe
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.pdb
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.Enregistrement.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\bin\Debug\Calulette.exe.config
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\bin\Debug\Calulette.exe
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\bin\Debug\Calulette.pdb
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\Calulette.Cotation.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\Calulette.Enregistrement.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\Calulette.Properties.Resources.resources
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\TP C SHARP.csproj.GenerateResource.Cache
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\Calulette.exe
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\Calulette.pdb
+C:\Users\Dekens\Documents\Visual Studio 2015\Projects\TP_C_SHARP\Calulette\obj\Debug\Calulette.Calculette.resources

@@ -1,0 +1,9 @@
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\bin\Debug\Calulette.exe.config
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\bin\Debug\Calulette.exe
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\bin\Debug\Calulette.pdb
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.csprojResolveAssemblyReference.cache
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.Form1.resources
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.Properties.Resources.resources
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.csproj.GenerateResource.Cache
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.exe
+c:\users\dekens\documents\visual studio 2015\Projects\Calulette\Calulette\obj\Debug\Calulette.pdb
